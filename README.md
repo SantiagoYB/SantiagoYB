@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SantiagoYB
-- 👀 I’m interested in cars and soccer
-- 🌱 I’m currently learning sistem engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hola 🖐️ mi nombre es Santiago Yañez Barajas, tengo 20 años y actualmente estoy cursando quinto semestre de ingenieria de sistemas en la Universidad Javeriana de Bogotá, Colombia. 
+Por el momento he trabajado en C, C++, HTML, CSS y Java, todos estos aprendidos en la universidad a excepción de HTML y CSS los cuales fueron aprendidos por mi propia cuenta.
 
-<!---
-SantiagoYB/SantiagoYB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aficiones: Deportes, videojuegos,automóviles entre muchas otras! 
+
+Contacto ✉️ -> sanyaba03@hotmail.com o santiago.yanezb@javeriana.edu.co

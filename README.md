@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611p0vkedoaw1s3kqw5zu8idq2mmvupzgvhu3qgoom9&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="250"/>  
+<img alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611p0vkedoaw1s3kqw5zu8idq2mmvupzgvhu3qgoom9&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200"/>  
 <h1>Hola! Soy Santiago Yáñez Barajas 👋🏽</h1>
 <h3>Contacto:</h3>
 <a href="mailto:sanyaba03@hotmail.com"><img align="center" img src="https://www.tec-innova.mx/wp-content/uploads/2022/02/CORREO.png" alt="Correo electrónico" height="40" width="40" /></a>
